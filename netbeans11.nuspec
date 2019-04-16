@@ -14,7 +14,7 @@
     <tags>IDE java maven gradle ant php</tags>
     <licenseUrl>https://github.com/apache/incubator-netbeans/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://raw.githubusercontent.com/adriens/chocolatey-liquibase/master/liquibase.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/adriens/chocolatey-netbeans-11/master/NetBeans_Logo.jpg</iconUrl>
     <packageSourceUrl>https://github.com/adriens/chocolatey-netbeans-11</packageSourceUrl>
     <releaseNotes>https://github.com/apache/incubator-netbeans/releases/tag/11.0</releaseNotes>
     <docsUrl>https://netbeans.apache.org/participate/index.html</docsUrl>
