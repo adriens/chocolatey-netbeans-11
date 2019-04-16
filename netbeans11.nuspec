@@ -17,7 +17,7 @@
     <iconUrl>https://raw.githubusercontent.com/adriens/chocolatey-netbeans-11/master/NetBeans_Logo.jpg</iconUrl>
     <packageSourceUrl>https://github.com/adriens/chocolatey-netbeans-11</packageSourceUrl>
     <releaseNotes>https://github.com/apache/incubator-netbeans/releases/tag/11.0</releaseNotes>
-    <docsUrl>https://netbeans.apache.org/participate/index.html</docsUrl>
+    <docsUrl>https://cwiki.apache.org/confluence/display/NETBEANS/Apache+NetBeans+11.0</docsUrl>
     <bugTrackerUrl>https://issues.apache.org/jira/projects/NETBEANS/issues</bugTrackerUrl>
     <projectSourceUrl>https://github.com/apache/incubator-netbeans</projectSourceUrl>
     <mailingListUrl>https://twitter.com/netbeans</mailingListUrl>
