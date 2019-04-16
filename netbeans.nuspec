@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>netbeans</id>
+    <title>Netbeans 11</title>
+    <version>11.0</version>
+    <authors>Apache</authors>
+    <owners>Adrien SALES</owners>
+    <summary>NetBeans is an integrated development environment (IDE) for Java. NetBeans allows applications
+	to be developed from a set of modular software components called modules.</summary>
+	<description>NetBeans is an integrated development environment (IDE) for Java. NetBeans allows applications
+	to be developed from a set of modular software components called modules.</description>
+    <projectUrl>https://netbeans.apache.org/download/nb110/nb110.html</projectUrl>
+    <tags>IDE java maven gradle ant php</tags>
+    <licenseUrl>https://github.com/apache/incubator-netbeans/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.githubusercontent.com/adriens/chocolatey-liquibase/master/liquibase.png</iconUrl>
+    <packageSourceUrl>https://github.com/adriens/chocolatey-netbeans-11</packageSourceUrl>
+    <releaseNotes>https://github.com/apache/incubator-netbeans/releases/tag/11.0</releaseNotes>
+    <docsUrl>https://netbeans.apache.org/participate/index.html</docsUrl>
+    <bugTrackerUrl>https://issues.apache.org/jira/projects/NETBEANS/summary</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/apache/incubator-netbeans</projectSourceUrl>
+    <mailingListUrl>https://twitter.com/netbeans</mailingListUrl>
+    <dependencies>
+      <dependency id="jdk8" version="[8.0,)" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools\" />
+  </files>
+</package>
