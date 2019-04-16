@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <metadata>
-    <id>netbeans</id>
+    <id>netbeans11</id>
     <title>Netbeans 11</title>
     <version>11.0</version>
     <authors>Apache</authors>
@@ -21,9 +21,10 @@
     <bugTrackerUrl>https://issues.apache.org/jira/projects/NETBEANS/summary</bugTrackerUrl>
     <projectSourceUrl>https://github.com/apache/incubator-netbeans</projectSourceUrl>
     <mailingListUrl>https://twitter.com/netbeans</mailingListUrl>
-    <dependencies>
-      <dependency id="jdk8" version="[8.0,)" />
-    </dependencies>
+    <!-- <dependencies>
+      <dependency id="jdk8"/>
+	</dependencies>
+	-->
   </metadata>
   <files>
     <file src="tools\**" target="tools\" />

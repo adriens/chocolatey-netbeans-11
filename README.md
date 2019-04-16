@@ -3,6 +3,6 @@
 Chocolatey package to install Netbeans 11
 
 ```
-choco uninstall netbeans
-choco install -fdv netbeans.nuspec
+choco uninstall netbeans11
+choco install -fdv netbeans11.nuspec
 ```

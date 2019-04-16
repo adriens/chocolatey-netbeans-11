@@ -1,7 +1,7 @@
 ﻿﻿$tools = Split-Path $MyInvocation.MyCommand.Definition
 $content = Join-Path (Split-Path $tools) 'content'
-$bat = Join-Path $content 'liquibase.bat'
+$bat = Join-Path $content '/bin/netbeans64.exe'
 
 Uninstall-BinFile `
-  -Name 'netbeans-11' `
+  -Name 'netbeans11' `
   -Path $bat
