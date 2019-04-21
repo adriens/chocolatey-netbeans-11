@@ -1,6 +1,6 @@
 # chocolatey-netbeans-11
 
-Chocolatey package to install Netbeans 11
+Chocolatey package to install Netbeans 11 (under moderation process)
 
 ```
 git clone https://github.com/adriens/chocolatey-netbeans-11.git
